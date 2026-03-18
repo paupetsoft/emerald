@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Emerald Suites",
-  description: "Hospitality Redefined",
+  description: "Hosp",
 };
 
 export default function RootLayout({

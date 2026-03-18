@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Emerald Suites",
-  description: "Hospitality Redefined",
+  description: "Hospitality Redefined. Experience the epitome of comfort and style at Emerald Suites. Your home away from home in Bangalore.",
 };
 
 export default function RootLayout({
